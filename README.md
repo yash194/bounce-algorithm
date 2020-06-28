@@ -1,2 +1,2 @@
-# bounce-algorithm
-how to make the sprite bounce.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
